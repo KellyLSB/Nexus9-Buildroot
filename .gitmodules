@@ -1,0 +1,7 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = git://github.com/buildroot/buildroot.git
+[submodule "tegra"]
+	path = tegra
+	url = https://android.googlesource.com/kernel/tegra.git
+	branch = android-tegra-flounder-3.10-lollipop-release
